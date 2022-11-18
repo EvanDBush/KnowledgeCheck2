@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Evan Bush\\Source\\Repos\\Software-2-Knowledge-Check-1\\Software2KnowledgeCheck1\\Software2KnowledgeCheck1\\Software2KnowledgeCheck1.csproj": {}
+    "C:\\Users\\Evan Bush\\source\\repos\\Software-2-Knowledge-Check-1\\Software2KnowledgeCheck1\\Software2KnowledgeCheck1\\Software2KnowledgeCheck1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Evan Bush\\Source\\Repos\\Software-2-Knowledge-Check-1\\Software2KnowledgeCheck1\\Software2KnowledgeCheck1\\Software2KnowledgeCheck1.csproj": {
+    "C:\\Users\\Evan Bush\\source\\repos\\Software-2-Knowledge-Check-1\\Software2KnowledgeCheck1\\Software2KnowledgeCheck1\\Software2KnowledgeCheck1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Evan Bush\\Source\\Repos\\Software-2-Knowledge-Check-1\\Software2KnowledgeCheck1\\Software2KnowledgeCheck1\\Software2KnowledgeCheck1.csproj",
+        "projectUniqueName": "C:\\Users\\Evan Bush\\source\\repos\\Software-2-Knowledge-Check-1\\Software2KnowledgeCheck1\\Software2KnowledgeCheck1\\Software2KnowledgeCheck1.csproj",
         "projectName": "Software2KnowledgeCheck1",
-        "projectPath": "C:\\Users\\Evan Bush\\Source\\Repos\\Software-2-Knowledge-Check-1\\Software2KnowledgeCheck1\\Software2KnowledgeCheck1\\Software2KnowledgeCheck1.csproj",
+        "projectPath": "C:\\Users\\Evan Bush\\source\\repos\\Software-2-Knowledge-Check-1\\Software2KnowledgeCheck1\\Software2KnowledgeCheck1\\Software2KnowledgeCheck1.csproj",
         "packagesPath": "C:\\Users\\Evan Bush\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Evan Bush\\Source\\Repos\\Software-2-Knowledge-Check-1\\Software2KnowledgeCheck1\\Software2KnowledgeCheck1\\obj\\",
         "projectStyle": "PackageReference",
